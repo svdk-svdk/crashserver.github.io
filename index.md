@@ -1,12 +1,8 @@
----
-layout: default
-title: Crash Server
----
 <!DOCTYPE html>
 <html>
     <head>
         <meta charset="utf-8">
-        <title>{{ page.title }}</title>
+        <title>Crash Server</title>
         <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css" >
     </head>
     <body>
