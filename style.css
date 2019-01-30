@@ -1,1 +1,14 @@
+/* On travaille sur la balise body, donc sur TOUTE la page */
+body
+{
+    background-color: gray; /* Le fond de la page sera noir */
+    color: white; /* Le texte de la page sera blanc */
+}
+
+
+p
+{
+    font-family: Verdana, Impact, "Arial Black", Arial, sans-serif;
+    color: white;
+}
 
