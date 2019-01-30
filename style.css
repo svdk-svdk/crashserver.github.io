@@ -1,41 +1,171 @@
 html {
   font-size: 10px;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Open Sans', Verdana, sans-serif;
 }
 
 
 h1 {
   font-size: 60px;
   text-align: center;
+  margin: 0;
+  padding: 10px 0;  
+  color: #1908cb;
+  text-shadow: 3px 3px 1px black;
+}
+
+
+iframe {
+    display: block;
+    margin: 0 auto;
+    border: 0;
+}
+
+h2 {
+  font-size: 40px;
+  text-align: center;
+  margin: 0;
+  padding: 20px 0;  
+  color: #1908cb;
+  text-shadow: 3px 3px 1px black;
+}
+
+h3 {
+  font-size: 20px;
+  text-align: center;
+  margin: 0;
+  padding: 20px 0;  
+  color: #1908cb;
+  text-shadow: 0.5px 0.5px 1px black;
 }
 
 p, li {
   font-size: 16px;  
-  line-height: 2;
+  line-height: 1;
   letter-spacing: 1px;
 }
 
 
 html {
-  background-color: #00539F;
+  background-color: #332e2e;
 }
 
 body {
   width: 600px;
   margin: 0 auto;
-  background-color: #FF9500;
+  background-color: #CB1908;
   padding: 0 20px 20px 20px;
-  border: 5px solid black;
+  border: 5px solid white;
+  color: #08033c;
 }
 
-h1 {
-  margin: 0;
-  padding: 20px 0;  
-  color: #00539F;
-  text-shadow: 3px 3px 1px black;
-}
 
 img {
   display: block;
   margin: 0 auto;
+}
+
+  
+@import url(https://fonts.googleapis.com/css?family=Lato);
+@import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css);
+body {
+    font-family: 'Lato', sans-serif;
+    color: #FFF;
+    background: #322f30;
+    -webkit-font-smoothing: antialiased;
+}
+a {
+    text-decoration: none;
+    color: #fff;
+}
+p > a:hover{
+    color: #d9d9d9;
+    text-decoration:  underline;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin:  1% 0 1% 0;
+}
+._12 {
+    font-size: 1.2em;
+}
+._14 {
+    font-size: 1.4em;
+}
+ul {
+    padding:0;
+    list-style: none;
+}
+.footer-social-icons {
+    width: 350px;
+    display:block;
+    margin: 0 auto;
+}
+.social-icon {
+    color: #fff;
+}
+ul.social-icons {
+    margin-top: 10px;
+}
+.social-icons li {
+    vertical-align: top;
+    display: inline;
+    height: 100px;
+}
+.social-icons a {
+    color: #fff;
+    text-decoration: none;
+}
+.fa-facebook {
+    padding:10px 14px;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition: .5s;
+    background-color: #322f30;
+}
+.fa-facebook:hover {
+    background-color: #3d5b99;
+}
+.fa-twitter {
+    padding:10px 12px;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition: .5s;
+    background-color: #322f30;
+}
+.fa-twitter:hover {
+    background-color: #00aced;
+}
+
+.fa-youtube {
+    padding:10px 14px;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition: .5s;
+    background-color: #322f30;
+}
+.fa-youtube:hover {
+    background-color: #e64a41;
+}
+
+.fa-instagram {
+    padding:10px 14px;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition: .5s;
+    background-color: #322f30;
+}
+.fa-instagram:hover {
+    background-color: #0073a4;
 }
