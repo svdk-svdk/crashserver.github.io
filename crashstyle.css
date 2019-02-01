@@ -145,7 +145,7 @@ ul.social-icons {
     text-decoration: none;
 }
 .fa-facebook {
-    padding:10px 14px;
+    padding:20px 24px;
     -o-transition:.5s;
     -ms-transition:.5s;
     -moz-transition:.5s;
@@ -157,7 +157,7 @@ ul.social-icons {
     background-color: #3d5b99;
 }
 .fa-twitter {
-    padding:10px 12px;
+    padding:20px 22px;
     -o-transition:.5s;
     -ms-transition:.5s;
     -moz-transition:.5s;
@@ -170,7 +170,7 @@ ul.social-icons {
 }
 
 .fa-youtube {
-    padding:10px 14px;
+    padding:20px 24px;
     -o-transition:.5s;
     -ms-transition:.5s;
     -moz-transition:.5s;
@@ -183,7 +183,7 @@ ul.social-icons {
 }
 
 .fa-instagram {
-    padding:10px 14px;
+    padding:20px 24px;
     -o-transition:.5s;
     -ms-transition:.5s;
     -moz-transition:.5s;
@@ -192,5 +192,5 @@ ul.social-icons {
     background-color: #322f30;
 }
 .fa-instagram:hover {
-    background-color: #0073a4;
+    background-color: #8c0331;
 }
