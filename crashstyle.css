@@ -144,6 +144,9 @@ ul.social-icons {
     color: #fff;
     text-decoration: none;
 }
+.fa {
+font-size: 25px;
+}  
 .fa-facebook {
     padding:20px 24px;
     -o-transition:.5s;
